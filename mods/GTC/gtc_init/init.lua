@@ -1,5 +1,10 @@
 local game = {
 	players = {},
+	load = function(file)
+		local modname = core.get_current_modname()
+		local modpath = core.get_modpath(modname)
+		return dofile(modpath .. "/" .. file)
+	end,
 }
 local storage = core.get_mod_storage()
 
@@ -34,5 +39,7 @@ core.register_on_newplayer(function(player)
 	local currpos = player:get_pos()
 	player:set_pos(vector.new(currpos.x, currpos.y + 20, currpos.z))
 end)
+
+game.load("hand.lua")
 
 gtc = game
