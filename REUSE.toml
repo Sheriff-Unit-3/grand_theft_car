@@ -9,7 +9,8 @@ path = [
 	"screenshot.png"
 ]
 SPDX-FileCopyrightText = [
-	"(C) 2026 Sheriff_U3"
+	"(C) 2026 Sheriff_U3",
+	"(C) TPH/tph9677/TubberPupperHusker/TubberPupper/Damotrix"
 ]
 SPDX-License-Identifier = "MIT"
 
@@ -20,7 +21,7 @@ path = [
 ]
 SPDX-FileCopyrightText = [
 	"(C) 2026 Ranged weapons contributors",
-	"(C) Sheriff_U3"
+	"(C) 2026 Sheriff_U3"
 ]
 SPDX-License-Identifier = "CC-BY-SA-4.0"
 
@@ -71,20 +72,22 @@ SPDX-License-Identifier = "CC-BY-SA-3.0"
 # CC0 files
 [[annotations]]
 path = [
-    ".luacheckrc",
-    ".github/**",
-    ".gitattributes",
-		".gitmodules",
-		".gitignore",
-		"flint.toml",
-    ".cdb.json",
-    "README.md",
-		"JAM2026.md",
-    "game.conf",
-		"mods/gtc_ui/fonts/**",
-		"menu/**",
-		"textures/heart.png",
-		"textures/heart_gone.png",
+	".luacheckrc",
+	".github/**",
+	".gitattributes",
+	".gitmodules",
+	".gitignore",
+	"flint.toml",
+	".cdb.json",
+	"README.md",
+	"JAM2026.md",
+	"game.conf",
+	"menu/**",
+	"mods/GTC/gtc_ui/fonts/**",
+	"mods/GTC/gtc_wasted/sounds/**",
+	"mods/GTC/gtc_wasted/textures/**",
+	"textures/heart.png",
+	"textures/heart_gone.png",
 ]
 SPDX-FileCopyrightText = "NONE"
 SPDX-License-Identifier = "CC0-1.0"

@@ -1,7 +1,11 @@
 {
 	"$schema": "https://content.luanti.org/api/cdb_schema/",
 	"type": "GAME",
-	"tags": ["adventure__rpg", "jam_game_2026", "oneofakind__original", "pve"],
+	"tags": ["adventure__rpg", "jam_game_2026", "oneofakind__original", "pve", "pvp"],
+	"content_warnings": ["violence", "drugs", "alcohol_tobacco", "gore"],
 	"title": "Grand Theft Car",
-	"short_description": "Fight the police or submit to their authority?"
+	"dev_state": "ACTIVELY_DEVELOPED",
+	"license": "LGPL-2.1-only",
+	"media_license": "CC-BY-SA-3.0",
+	"short_description": "Police chases, robberies, smuggling, how much trouble can you get in without getting caught?"
 }
