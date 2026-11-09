@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "@1 skill degraded!"
+msgstr "Geschick mit @1 verloren!"
+
+msgid "Handgun"
+msgstr "Handfeuerwaffe"
+
+msgid "Machine Pistol"
+msgstr "Maschinenpistole"
+
+msgid "S.M.G."
+msgstr "S.M.G."
+
+msgid "Shotgun"
+msgstr "Schrotflinte"
+
+msgid "Heavy MG"
+msgstr "Schweres MG"
+
+msgid "A.Rifle"
+msgstr "Sturmgewehr"
+
+msgid "Revolver/magnum"
+msgstr "Revolver/Magnum"
+
+msgid "Rifle"
+msgstr "Gewehr"
+
+msgid "Throwing weapons"
+msgstr "Wurfwaffen"
+

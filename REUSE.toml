@@ -1,0 +1,87 @@
+#:schema https://reuse.software/reuse-toml-v1.schema.json
+
+version = 1
+
+# Source Code
+[[annotations]]
+path = [
+]
+SPDX-FileCopyrightText = [
+
+]
+SPDX-License-Identifier = "LGPL-2.1-only"
+
+# GTC Firearms
+[[annotations]]
+path = [
+	"mods/gtc_firearms/**",
+]
+SPDX-FileCopyrightText = [
+	"(C) 2026 Ranged weapons contributors",
+	"(C) Sheriff_U3"
+]
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+# textures/
+[[annotations]]
+path = [
+	"textures/character.png",
+	"textures/crack_anylength.png",
+	"textures/bubble.png",
+	"textures/gui_formbg.png",
+]
+SPDX-FileCopyrightText = "Copyright (C) 2020 paramat"
+SPDX-License-Identifier = "CC-BY-SA-3.0"
+
+# mods/THIRD_PARTY - submodules
+[[annotations]]
+path = [
+	"mods/THIRD_PARTY/**",
+]
+SPDX-FileCopyrightText = [
+	"Copyright (C) 2011 celeron55, Perttu Ahola <celeron55@gmail.com>",
+	"Copyright (C) 2011 Various Minetest Game developers and contributors",
+	"Copyright © 2019 by luk3yx."
+]
+SPDX-License-Identifier = ["LGPL-2.1-only", "MIT"]
+[[annotations]]
+path = [
+	"mods/THIRD_PARTY/player_api/textures/**",
+	"mods/THIRD_PARTY/player_api/models/**",
+	"mods/THIRD_PARTY/player_api/locale/**"
+]
+precedence = "override"
+SPDX-FileCopyrightText = [
+	"Copyright (C) 2011 celeron55, Perttu Ahola <celeron55@gmail.com>",
+	"Copyright (C) 2012 MirceaKitsune",
+	"Copyright (C) 2012 Jordach",
+	"Copyright (C) 2015 kilbith",
+	"Copyright (C) 2016 sofar",
+	"Copyright (C) 2016 xunto",
+	"Copyright (C) 2016 Rogier-5",
+	"Copyright (C) 2017 TeTpaAka",
+	"Copyright (C) 2017 Desour",
+	"Copyright (C) 2018 stujones11",
+	"Copyright (C) 2019 An0n3m0us"
+]
+SPDX-License-Identifier = "CC-BY-SA-3.0"
+
+# CC0 files
+[[annotations]]
+path = [
+    ".luacheckrc",
+    ".github/**",
+    ".gitattributes",
+		".gitmodules",
+    ".cdb.json",
+    "README.md",
+		"JAM2026",
+    "mod.conf",
+		"mods/gtc_ui/fonts/**",
+		"menu/**",
+		"textures/heart.png",
+		"textures/heart_gone.png",
+		"textures/heart_half_gone.png",
+]
+SPDX-FileCopyrightText = "NONE"
+SPDX-License-Identifier = "CC0-1.0"

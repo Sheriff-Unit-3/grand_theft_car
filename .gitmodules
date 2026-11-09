@@ -1,0 +1,12 @@
+[submodule "mods/player_api"]
+	path = mods/player_api
+	url = https://github.com/minetest-game/player_api
+[submodule "mods/THIRD_PARTY/formspec_ast"]
+	path = mods/THIRD_PARTY/formspec_ast
+	url = https://gitlab.com/luk3yx/minetest-formspec_ast.git
+[submodule "mods/THIRD_PARTY/flow"]
+	path = mods/THIRD_PARTY/flow
+	url = https://gitlab.com/luk3yx/minetest-flow.git
+[submodule "mods/THIRD_PARTY/player_api"]
+	path = mods/THIRD_PARTY/player_api
+	url = https://github.com/minetest-game/player_api.git

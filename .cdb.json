@@ -1,0 +1,7 @@
+{
+	"$schema": "https://content.luanti.org/api/cdb_schema/",
+	"type": "GAME",
+	"tags": ["adventure__rpg", "jam_game_2026", "oneofakind__original", "pve"],
+	"title": "Grand Theft Car",
+	"short_description": "Fight the police or submit to their authority?"
+}
