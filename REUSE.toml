@@ -5,11 +5,13 @@ version = 1
 # Source Code
 [[annotations]]
 path = [
+	"mods/GTC/**",
+	"screenshot.png"
 ]
 SPDX-FileCopyrightText = [
-
+	"(C) 2026 Sheriff_U3"
 ]
-SPDX-License-Identifier = "LGPL-2.1-only"
+SPDX-License-Identifier = "MIT"
 
 # GTC Firearms
 [[annotations]]
@@ -28,7 +30,7 @@ path = [
 	"textures/character.png",
 	"textures/crack_anylength.png",
 	"textures/bubble.png",
-	"textures/gui_formbg.png",
+	"textures/wieldhand.png"
 ]
 SPDX-FileCopyrightText = "Copyright (C) 2020 paramat"
 SPDX-License-Identifier = "CC-BY-SA-3.0"
@@ -73,15 +75,16 @@ path = [
     ".github/**",
     ".gitattributes",
 		".gitmodules",
+		".gitignore",
+		"flint.toml",
     ".cdb.json",
     "README.md",
-		"JAM2026",
-    "mod.conf",
+		"JAM2026.md",
+    "game.conf",
 		"mods/gtc_ui/fonts/**",
 		"menu/**",
 		"textures/heart.png",
 		"textures/heart_gone.png",
-		"textures/heart_half_gone.png",
 ]
 SPDX-FileCopyrightText = "NONE"
 SPDX-License-Identifier = "CC0-1.0"
