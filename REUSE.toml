@@ -42,9 +42,10 @@ path = [
 	"mods/THIRD_PARTY/**",
 ]
 SPDX-FileCopyrightText = [
-	"Copyright (C) 2011 celeron55, Perttu Ahola <celeron55@gmail.com>",
-	"Copyright (C) 2011 Various Minetest Game developers and contributors",
-	"Copyright © 2019 by luk3yx."
+	"LGPL-2.1-only Copyright (C) 2011 celeron55, Perttu Ahola <celeron55@gmail.com>",
+	"LGPL-2.1-only Copyright (C) 2011 Various Minetest Game developers and contributors",
+	"MIT Copyright © 2019 by luk3yx.",
+	"MIT Copyright © 2024 Wuzzy"
 ]
 SPDX-License-Identifier = ["LGPL-2.1-only", "MIT"]
 [[annotations]]

@@ -10,3 +10,6 @@
 [submodule "mods/THIRD_PARTY/player_api"]
 	path = mods/THIRD_PARTY/player_api
 	url = https://github.com/minetest-game/player_api.git
+[submodule "mods/THIRD_PARTY/playerphysics"]
+	path = mods/THIRD_PARTY/playerphysics
+	url = https://codeberg.org/Wuzzy/minetest_playerphysics.git
